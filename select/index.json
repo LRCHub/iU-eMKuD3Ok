@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "DASAI DAZAI",
+  "base_artist": "Radwimps",
+  "createdAt": "2025-12-09T02:48:26.990856Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "DASAI DAZAI",
+      "artist": "RADWIMPS",
+      "has_synced": true,
+      "path": "select/01_DASAI_DAZAI_RADWIMPS.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "DASAI DAZAI",
+      "artist": "RADWIMPS",
+      "has_synced": false,
+      "path": "select/pl_01_DASAI_DAZAI_RADWIMPS.txt"
+    }
+  ]
+}
